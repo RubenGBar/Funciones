@@ -19,7 +19,7 @@ public class Main06 {
 		
 		menu = sc.nextInt();
 		
-		Funcion06.cilindro(menu, radio, altura);
+		Funcion06.cilindro(radio, altura, menu);
 		
 		sc.close();
 		

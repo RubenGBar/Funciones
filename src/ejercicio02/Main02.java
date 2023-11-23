@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main02 {
 	public static void main(String[] args) {
 		
-		int n1, n2;
+		int n1, n2, numerosMostrados;
 		
 		Scanner sc = new Scanner(System.in);
 		
